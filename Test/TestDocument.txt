@@ -1,1 +1,2 @@
-This is just a sample text line
+This is just a sample text line, making changes on the existing.
+Adding new text as well
